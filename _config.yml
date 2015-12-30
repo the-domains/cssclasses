@@ -1,7 +1,7 @@
 name: cssclasses
 favicon: null
-layout_spectrum: 0.2998907892033458
-typography_spectrum: 0.7590908603742719
+layout_spectrum: 0
+typography_spectrum: 0.75543
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7338007851503789
-  lightness: 0.8507153482642025
-  saturation: 0.19202662562020123
-  rhythmicContrast: 0.9565668061841279
+    - '#353535'
+    - '#d6d6d6'
+    - '#b4b4b4'
+    - '#858585'
+    - '#696969'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
