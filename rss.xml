@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cssclasses]]></title>
-        <description><![CDATA[cssclasses]]></description>
+        <title><![CDATA[This is a site about a css course]]></title>
+        <description><![CDATA[This is a site about a css course]]></description>
         <link>https://thegrid.ai/cssclasses/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 11:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 12:04:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cssclasses/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Write content by hand and lets see if it stays there</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3613557-f81c-45a9-8a13-79e4e27816d2.jpg">]]></description>
             <link>https://thegrid.ai/cssclasses/079a2743-6afa-4418-999b-c5bbe55c4807/index.html</link>
             <guid isPermaLink="false">079a2743-6afa-4418-999b-c5bbe55c4807</guid>
-            <pubDate>Wed, 30 Dec 2015 11:53:13 GMT</pubDate>
+            <pubDate>Wed, 30 Dec 2015 12:04:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[cssclasses intro]]></title>
