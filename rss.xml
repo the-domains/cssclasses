@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cssclasses]]></title>
         <description><![CDATA[cssclasses]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cssclasses/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 11:29:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 11:44:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cssclasses/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHO CAN ATTEND?]]></title>
+            <description><![CDATA[<article><h1>WHO CAN ATTEND?</h1><p>Anyone! Learners of all levels are welcome, including beginners with absolutely no experience and advanced CSS coders. We require you to respect our core values, and make sure to check out the information for attendees page.</p></article>]]></description>
+            <link>https://thegrid.ai/cssclasses/80b04487-6730-4beb-b541-0d59552af612/index.html</link>
+            <guid isPermaLink="false">80b04487-6730-4beb-b541-0d59552af612</guid>
+            <pubDate>Wed, 30 Dec 2015 11:43:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[cssclasses intro]]></title>
-            <description><![CDATA[<article><h1>cssclasses intro</h1><p>this is the intro for cssclasses</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffb427ec-336c-406f-a99f-b72e5b7f0a25.jpg"></article>]]></description>
-            <link>undefinedcssclasses-intro/index.html</link>
+            <description><![CDATA[<article><h1>cssclasses intro</h1><p>This is the introduction for cssclasses</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3bff566f1a2cf69a1c4f3d10a641e7b5de42abe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cssclasses/cssclasses-intro/index.html</link>
             <guid isPermaLink="false">b5c962b6-eecd-419e-afc9-8545930ea21b</guid>
             <pubDate>Wed, 30 Dec 2015 11:29:34 GMT</pubDate>
         </item>
